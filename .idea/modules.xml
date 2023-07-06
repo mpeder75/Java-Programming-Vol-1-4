@@ -10,7 +10,14 @@
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 13 - Code Blocks/Exercise 13 - Code Blocks.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 13 - Code Blocks/Exercise 13 - Code Blocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 14- Code Blocks/Exercise 14- Code Blocks.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 14- Code Blocks/Exercise 14- Code Blocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 15 - Datatypes/Exercise 15 - Datatypes.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 15 - Datatypes/Exercise 15 - Datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 16- Datatypes/Exercise 16- Datatypes.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 16- Datatypes/Exercise 16- Datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 17 - Datatypes - Char/Exercise 17 - Datatypes - Char.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 17 - Datatypes - Char/Exercise 17 - Datatypes - Char.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 18 - Datatype - Boolean/Exercise 18 - Datatype - Boolean.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 18 - Datatype - Boolean/Exercise 18 - Datatype - Boolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 19 - Declaring and Assigning Vasriabels/Exercise 19 - Declaring and Assigning Vasriabels.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 19 - Declaring and Assigning Vasriabels/Exercise 19 - Declaring and Assigning Vasriabels.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 2 -  Integer Assign Variabels/Exercise 2 -  Integer Assign Variabels.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 2 -  Integer Assign Variabels/Exercise 2 -  Integer Assign Variabels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 20 - Decrementing values/Exercise 20 - Decrementing values.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 20 - Decrementing values/Exercise 20 - Decrementing values.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 21 - Logical Operators/Exercise 21 - Logical Operators.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 21 - Logical Operators/Exercise 21 - Logical Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 22 - Shortcut Arithmetic Assignments/Exercise 22 - Shortcut Arithmetic Assignments.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 22 - Shortcut Arithmetic Assignments/Exercise 22 - Shortcut Arithmetic Assignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 3 - Integer Arithmetic/Exercise 3 - Integer Arithmetic.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 3 - Integer Arithmetic/Exercise 3 - Integer Arithmetic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 4 - Integer Arithmetic/Exercise 4 - Integer Arithmetic.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 4 - Integer Arithmetic/Exercise 4 - Integer Arithmetic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 5 - Integer Arithemetic/Exercise 5 - Integer Arithemetic.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 5 - Integer Arithemetic/Exercise 5 - Integer Arithemetic.iml" />
@@ -26,6 +33,11 @@
       <module fileurl="file://$PROJECT_DIR$/Vol-1/e. If Statements/e. If Statements.iml" filepath="$PROJECT_DIR$/Vol-1/e. If Statements/e. If Statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/f. For Loops/f. For Loops.iml" filepath="$PROJECT_DIR$/Vol-1/f. For Loops/f. For Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/g. Data Types/g. Data Types.iml" filepath="$PROJECT_DIR$/Vol-1/g. Data Types/g. Data Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-1/h. Declaring and Initializing Variabels/h. Declaring and Initializing Variabels.iml" filepath="$PROJECT_DIR$/Vol-1/h. Declaring and Initializing Variabels/h. Declaring and Initializing Variabels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-1/i. Variabel Scope/i. Variabel Scope.iml" filepath="$PROJECT_DIR$/Vol-1/i. Variabel Scope/i. Variabel Scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-1/j. Decrementing and Incrementing Variabels/j. Decrementing and Incrementing Variabels.iml" filepath="$PROJECT_DIR$/Vol-1/j. Decrementing and Incrementing Variabels/j. Decrementing and Incrementing Variabels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-1/k. AND OR NOR XOR/k. AND OR NOR XOR.iml" filepath="$PROJECT_DIR$/Vol-1/k. AND OR NOR XOR/k. AND OR NOR XOR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-1/l. Arithmetic Assignment Operators/l. Arithmetic Assignment Operators.iml" filepath="$PROJECT_DIR$/Vol-1/l. Arithmetic Assignment Operators/l. Arithmetic Assignment Operators.iml" />
     </modules>
   </component>
 </project>
