@@ -5,7 +5,7 @@ public class Main {
     Assign a variabel called "age" with the value 35.
     Using if statements, do the following:
 
-    If the age is grater than or equal to 30 then output the following ising seperate println() statements
+    If the age is greater than or equal to 30 then output the following:
 
 	"Oh no I am older than 30 years old!
 	I may be a little older,

@@ -1,4 +1,4 @@
-public class Main {
+public class Single_Line_For_Loops {
     public static void main(String[] args) {
 
         int counter;
