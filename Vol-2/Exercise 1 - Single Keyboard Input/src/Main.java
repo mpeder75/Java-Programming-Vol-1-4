@@ -1,4 +1,6 @@
 public class Main {
+
+    // throws java.io.IOException skal tilføjes
     public static void main(String[] args) throws java.io.IOException {
 
         /*

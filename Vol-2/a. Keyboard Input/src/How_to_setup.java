@@ -1,4 +1,4 @@
-public class Main {
+public class How_to_setup {
     // throws java.io.IOException skal tilføjes
     public static void main(String[] args) throws java.io.IOException {
 
