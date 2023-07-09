@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 1 - Integer Variabels/Exercise 1 - Integer Variabels.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 1 - Integer Variabels/Exercise 1 - Integer Variabels.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-2/Exercise 1 - Single Keyboard Input/Exercise 1 - Single Keyboard Input.iml" filepath="$PROJECT_DIR$/Vol-2/Exercise 1 - Single Keyboard Input/Exercise 1 - Single Keyboard Input.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 10 - For loop/Exercise 10 - For loop.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 10 - For loop/Exercise 10 - For loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-2/Exercise 10 - Nested If-Else/Exercise 10 - Nested If-Else.iml" filepath="$PROJECT_DIR$/Vol-2/Exercise 10 - Nested If-Else/Exercise 10 - Nested If-Else.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 11 - For loop/Exercise 11 - For loop.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 11 - For loop/Exercise 11 - For loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 12 - Code Blocks/Exercise 12 - Code Blocks.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 12 - Code Blocks/Exercise 12 - Code Blocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 13 - Code Blocks/Exercise 13 - Code Blocks.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 13 - Code Blocks/Exercise 13 - Code Blocks.iml" />
@@ -27,16 +28,23 @@
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 5 - Integer Arithemetic/Exercise 5 - Integer Arithemetic.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 5 - Integer Arithemetic/Exercise 5 - Integer Arithemetic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-2/Exercise 5 - Read Keyboard Characters/Exercise 5 - Read Keyboard Characters.iml" filepath="$PROJECT_DIR$/Vol-2/Exercise 5 - Read Keyboard Characters/Exercise 5 - Read Keyboard Characters.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 6 - Floating Point Variabler/Exercise 6 - Floating Point Variabler.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 6 - Floating Point Variabler/Exercise 6 - Floating Point Variabler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-2/Exercise 6 - Scanner reads from keyboard/Exercise 6 - Scanner reads from keyboard.iml" filepath="$PROJECT_DIR$/Vol-2/Exercise 6 - Scanner reads from keyboard/Exercise 6 - Scanner reads from keyboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 7 - Floating Variabels/Exercise 7 - Floating Variabels.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 7 - Floating Variabels/Exercise 7 - Floating Variabels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-2/Exercise 7 - Scanner reads from keyboard/Exercise 7 - Scanner reads from keyboard.iml" filepath="$PROJECT_DIR$/Vol-2/Exercise 7 - Scanner reads from keyboard/Exercise 7 - Scanner reads from keyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-2/Exercise 8 - Scanner reads from keyboard/Exercise 8 - Scanner reads from keyboard.iml" filepath="$PROJECT_DIR$/Vol-2/Exercise 8 - Scanner reads from keyboard/Exercise 8 - Scanner reads from keyboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 9 - If Statements/Exercise 9 - If Statements.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 9 - If Statements/Exercise 9 - If Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-2/Exercise 9 - If-Else  and Scanner Keyboard/Exercise 9 - If-Else  and Scanner Keyboard.iml" filepath="$PROJECT_DIR$/Vol-2/Exercise 9 - If-Else  and Scanner Keyboard/Exercise 9 - If-Else  and Scanner Keyboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Programming-Vol-1-4.iml" filepath="$PROJECT_DIR$/.idea/Java-Programming-Vol-1-4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Vol-1.iml" filepath="$PROJECT_DIR$/Vol-1/Vol-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-2/Vol-2.iml" filepath="$PROJECT_DIR$/Vol-2/Vol-2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Vol-2/a. Keyboard Input/a. Keyboard Input.iml" filepath="$PROJECT_DIR$/Vol-2/a. Keyboard Input/a. Keyboard Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-2/a. Read char from keyboard/a. Read char from keyboard.iml" filepath="$PROJECT_DIR$/Vol-2/a. Read char from keyboard/a. Read char from keyboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/a. System.out.println/a. System.out.println.iml" filepath="$PROJECT_DIR$/Vol-1/a. System.out.println/a. System.out.println.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/b. Integer Variabler/b. Integer Variabler.iml" filepath="$PROJECT_DIR$/Vol-1/b. Integer Variabler/b. Integer Variabler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-2/b. Read from keyboard with Scanner/b. Read from keyboard with Scanner.iml" filepath="$PROJECT_DIR$/Vol-2/b. Read from keyboard with Scanner/b. Read from keyboard with Scanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/c. Arithmetic med Integer Variabler/c. Arithmetic med Integer Variabler.iml" filepath="$PROJECT_DIR$/Vol-1/c. Arithmetic med Integer Variabler/c. Arithmetic med Integer Variabler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-2/c. If-Else Statement/c. If-Else Statement.iml" filepath="$PROJECT_DIR$/Vol-2/c. If-Else Statement/c. If-Else Statement.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/d. Floating-point Variabler/d. Floating-point Variabler.iml" filepath="$PROJECT_DIR$/Vol-1/d. Floating-point Variabler/d. Floating-point Variabler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-2/d. Nested If-Else statement/d. Nested If-Else statement.iml" filepath="$PROJECT_DIR$/Vol-2/d. Nested If-Else statement/d. Nested If-Else statement.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/e. If Statements/e. If Statements.iml" filepath="$PROJECT_DIR$/Vol-1/e. If Statements/e. If Statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/f. For Loops/f. For Loops.iml" filepath="$PROJECT_DIR$/Vol-1/f. For Loops/f. For Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/g. Data Types/g. Data Types.iml" filepath="$PROJECT_DIR$/Vol-1/g. Data Types/g. Data Types.iml" />
