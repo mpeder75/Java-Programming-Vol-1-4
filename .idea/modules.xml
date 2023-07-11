@@ -11,9 +11,13 @@
       <module fileurl="file://$PROJECT_DIR$/Vol-2/Exercise 11 - If-Else-If Statement ladder/Exercise 11 - If-Else-If Statement ladder.iml" filepath="$PROJECT_DIR$/Vol-2/Exercise 11 - If-Else-If Statement ladder/Exercise 11 - If-Else-If Statement ladder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 12 - Code Blocks/Exercise 12 - Code Blocks.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 12 - Code Blocks/Exercise 12 - Code Blocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-2/Exercise 12 - Switch statement/Exercise 12 - Switch statement.iml" filepath="$PROJECT_DIR$/Vol-2/Exercise 12 - Switch statement/Exercise 12 - Switch statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-2/Exercise 13 - Break statement/Exercise 13 - Break statement.iml" filepath="$PROJECT_DIR$/Vol-2/Exercise 13 - Break statement/Exercise 13 - Break statement.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 13 - Code Blocks/Exercise 13 - Code Blocks.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 13 - Code Blocks/Exercise 13 - Code Blocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-2/Exercise 14 - Continue statement/Exercise 14 - Continue statement.iml" filepath="$PROJECT_DIR$/Vol-2/Exercise 14 - Continue statement/Exercise 14 - Continue statement.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 14- Code Blocks/Exercise 14- Code Blocks.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 14- Code Blocks/Exercise 14- Code Blocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 15 - Datatypes/Exercise 15 - Datatypes.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 15 - Datatypes/Exercise 15 - Datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-2/Exercise 15 - While loop/Exercise 15 - While loop.iml" filepath="$PROJECT_DIR$/Vol-2/Exercise 15 - While loop/Exercise 15 - While loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-2/Exercise 16 - Do While loop/Exercise 16 - Do While loop.iml" filepath="$PROJECT_DIR$/Vol-2/Exercise 16 - Do While loop/Exercise 16 - Do While loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 16- Datatypes/Exercise 16- Datatypes.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 16- Datatypes/Exercise 16- Datatypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 17 - Datatypes - Char/Exercise 17 - Datatypes - Char.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 17 - Datatypes - Char/Exercise 17 - Datatypes - Char.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 18 - Datatype - Boolean/Exercise 18 - Datatype - Boolean.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 18 - Datatype - Boolean/Exercise 18 - Datatype - Boolean.iml" />
@@ -51,11 +55,16 @@
       <module fileurl="file://$PROJECT_DIR$/Vol-2/e. If-Else-If Statement Ladder/e. If-Else-If Statement Ladder.iml" filepath="$PROJECT_DIR$/Vol-2/e. If-Else-If Statement Ladder/e. If-Else-If Statement Ladder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/f. For Loops/f. For Loops.iml" filepath="$PROJECT_DIR$/Vol-1/f. For Loops/f. For Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-2/f. Switch Statement/f. Switch Statement.iml" filepath="$PROJECT_DIR$/Vol-2/f. Switch Statement/f. Switch Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-2/g. Break statement/g. Break statement.iml" filepath="$PROJECT_DIR$/Vol-2/g. Break statement/g. Break statement.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/g. Data Types/g. Data Types.iml" filepath="$PROJECT_DIR$/Vol-1/g. Data Types/g. Data Types.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/h. Declaring and Initializing Variabels/h. Declaring and Initializing Variabels.iml" filepath="$PROJECT_DIR$/Vol-1/h. Declaring and Initializing Variabels/h. Declaring and Initializing Variabels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-2/h. Remainder and Continue operator/h. Remainder and Continue operator.iml" filepath="$PROJECT_DIR$/Vol-2/h. Remainder and Continue operator/h. Remainder and Continue operator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/i. Variabel Scope/i. Variabel Scope.iml" filepath="$PROJECT_DIR$/Vol-1/i. Variabel Scope/i. Variabel Scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-2/i. While Loop/i. While Loop.iml" filepath="$PROJECT_DIR$/Vol-2/i. While Loop/i. While Loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/j. Decrementing and Incrementing Variabels/j. Decrementing and Incrementing Variabels.iml" filepath="$PROJECT_DIR$/Vol-1/j. Decrementing and Incrementing Variabels/j. Decrementing and Incrementing Variabels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-2/j. Do-While Loop/j. Do-While Loop.iml" filepath="$PROJECT_DIR$/Vol-2/j. Do-While Loop/j. Do-While Loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/k. AND OR NOR XOR/k. AND OR NOR XOR.iml" filepath="$PROJECT_DIR$/Vol-1/k. AND OR NOR XOR/k. AND OR NOR XOR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-2/k. Math classes/k. Math classes.iml" filepath="$PROJECT_DIR$/Vol-2/k. Math classes/k. Math classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/l. Arithmetic Assignment Operators/l. Arithmetic Assignment Operators.iml" filepath="$PROJECT_DIR$/Vol-1/l. Arithmetic Assignment Operators/l. Arithmetic Assignment Operators.iml" />
     </modules>
   </component>
