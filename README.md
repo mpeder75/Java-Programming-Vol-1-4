@@ -15,3 +15,6 @@ Note, this repository is only made for my own training.
 | Section   | Module    | Description  |
 |-----------|-----------|--------------|
 | Section 1 | --------- | ------------ |
+
+
+Vol- 3 Video length =  4 hours, 21 minutes, and 41 seconds
