@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise  8 - If Statements/Exercise  8 - If Statements.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise  8 - If Statements/Exercise  8 - If Statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 1 - Integer Variabels/Exercise 1 - Integer Variabels.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 1 - Integer Variabels/Exercise 1 - Integer Variabels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-3/Exercise 1 - Methods w keyboard input/Exercise 1 - Methods w keyboard input.iml" filepath="$PROJECT_DIR$/Vol-3/Exercise 1 - Methods w keyboard input/Exercise 1 - Methods w keyboard input.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-2/Exercise 1 - Single Keyboard Input/Exercise 1 - Single Keyboard Input.iml" filepath="$PROJECT_DIR$/Vol-2/Exercise 1 - Single Keyboard Input/Exercise 1 - Single Keyboard Input.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 10 - For loop/Exercise 10 - For loop.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 10 - For loop/Exercise 10 - For loop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-2/Exercise 10 - Nested If-Else/Exercise 10 - Nested If-Else.iml" filepath="$PROJECT_DIR$/Vol-2/Exercise 10 - Nested If-Else/Exercise 10 - Nested If-Else.iml" />
@@ -23,11 +24,13 @@
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 18 - Datatype - Boolean/Exercise 18 - Datatype - Boolean.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 18 - Datatype - Boolean/Exercise 18 - Datatype - Boolean.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 19 - Declaring and Assigning Vasriabels/Exercise 19 - Declaring and Assigning Vasriabels.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 19 - Declaring and Assigning Vasriabels/Exercise 19 - Declaring and Assigning Vasriabels.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 2 -  Integer Assign Variabels/Exercise 2 -  Integer Assign Variabels.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 2 -  Integer Assign Variabels/Exercise 2 -  Integer Assign Variabels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-3/Exercise 2 - Passeing Parameters to a Method and Returning Values/Exercise 2 - Passeing Parameters to a Method and Returning Values.iml" filepath="$PROJECT_DIR$/Vol-3/Exercise 2 - Passeing Parameters to a Method and Returning Values/Exercise 2 - Passeing Parameters to a Method and Returning Values.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-2/Exercise 2 - Single Keyboard Input/Exercise 2 - Single Keyboard Input.iml" filepath="$PROJECT_DIR$/Vol-2/Exercise 2 - Single Keyboard Input/Exercise 2 - Single Keyboard Input.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 20 - Decrementing values/Exercise 20 - Decrementing values.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 20 - Decrementing values/Exercise 20 - Decrementing values.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 21 - Logical Operators/Exercise 21 - Logical Operators.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 21 - Logical Operators/Exercise 21 - Logical Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 22 - Shortcut Arithmetic Assignments/Exercise 22 - Shortcut Arithmetic Assignments.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 22 - Shortcut Arithmetic Assignments/Exercise 22 - Shortcut Arithmetic Assignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 3 - Integer Arithmetic/Exercise 3 - Integer Arithmetic.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 3 - Integer Arithmetic/Exercise 3 - Integer Arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-3/Exercise 3 - Passing multiple Parameters And Returns Value/Exercise 3 - Passing multiple Parameters And Returns Value.iml" filepath="$PROJECT_DIR$/Vol-3/Exercise 3 - Passing multiple Parameters And Returns Value/Exercise 3 - Passing multiple Parameters And Returns Value.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-2/Exercise 3 - Single Keyboard Input/Exercise 3 - Single Keyboard Input.iml" filepath="$PROJECT_DIR$/Vol-2/Exercise 3 - Single Keyboard Input/Exercise 3 - Single Keyboard Input.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Exercise 4 - Integer Arithmetic/Exercise 4 - Integer Arithmetic.iml" filepath="$PROJECT_DIR$/Vol-1/Exercise 4 - Integer Arithmetic/Exercise 4 - Integer Arithmetic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-2/Exercise 4 - Single Keyboard Input/Exercise 4 - Single Keyboard Input.iml" filepath="$PROJECT_DIR$/Vol-2/Exercise 4 - Single Keyboard Input/Exercise 4 - Single Keyboard Input.iml" />
@@ -43,8 +46,11 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Programming-Vol-1-4.iml" filepath="$PROJECT_DIR$/.idea/Java-Programming-Vol-1-4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/Vol-1.iml" filepath="$PROJECT_DIR$/Vol-1/Vol-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-2/Vol-2.iml" filepath="$PROJECT_DIR$/Vol-2/Vol-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-3/Vol-3.iml" filepath="$PROJECT_DIR$/Vol-3/Vol-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-3/a. Intro Methods/a. Intro Methods.iml" filepath="$PROJECT_DIR$/Vol-3/a. Intro Methods/a. Intro Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-2/a. Read char from keyboard/a. Read char from keyboard.iml" filepath="$PROJECT_DIR$/Vol-2/a. Read char from keyboard/a. Read char from keyboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/a. System.out.println/a. System.out.println.iml" filepath="$PROJECT_DIR$/Vol-1/a. System.out.println/a. System.out.println.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vol-3/b. Add Parameters to Method and Return/b. Add Parameters to Method and Return.iml" filepath="$PROJECT_DIR$/Vol-3/b. Add Parameters to Method and Return/b. Add Parameters to Method and Return.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/b. Integer Variabler/b. Integer Variabler.iml" filepath="$PROJECT_DIR$/Vol-1/b. Integer Variabler/b. Integer Variabler.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-2/b. Read from keyboard with Scanner/b. Read from keyboard with Scanner.iml" filepath="$PROJECT_DIR$/Vol-2/b. Read from keyboard with Scanner/b. Read from keyboard with Scanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/Vol-1/c. Arithmetic med Integer Variabler/c. Arithmetic med Integer Variabler.iml" filepath="$PROJECT_DIR$/Vol-1/c. Arithmetic med Integer Variabler/c. Arithmetic med Integer Variabler.iml" />
