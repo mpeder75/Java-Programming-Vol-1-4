@@ -21,6 +21,12 @@ public class Main {
         double height[] = {2.6, 6.7, 4.4, 5.5};
 
 
+        /* ---------  Access et element i et array --------- */
+        int myArray[] = {2,6,7,4,2};
+
+        System.out.println("Index 0 is reached with " + myArray[0]);
+
+
 
         /* ------------  Declare & Initialize array ------------ */
         // her printes ages array index 0 til 4 ud
